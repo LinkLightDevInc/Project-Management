@@ -1,4 +1,6 @@
 # Project-Management
+
+## Removed private repositories for now since I dont want to pay for github when everyone is still taking lessons.
 Task list of projects.
 
 ## Lessons
